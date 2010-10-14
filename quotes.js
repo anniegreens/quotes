@@ -19,6 +19,10 @@
         {
             "quote": "That code should be thrown on the floor, set on fire, and jumped up and down on!",
             "by": "Bornstein"
+        },
+        {
+            "quote": "The thing that makes you exceptional, if you are at all, is inevitably that which must also make you lonely.",
+            "by": "Lorraine Hansberry"
         } 
     ]
 }
